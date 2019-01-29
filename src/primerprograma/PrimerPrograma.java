@@ -24,6 +24,7 @@ public class PrimerPrograma {
         c = Integer.parseInt(entrada.readLine());
         System.out.println("Valor de c = " + c);
         System.out.println("----------------");
+        System.out.println("Kiubo profe, como andamos");
         
     }
     
